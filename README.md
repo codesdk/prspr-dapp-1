@@ -53,3 +53,9 @@ WARNING! Your Node version is not LTS (Long Term Support), use it at your own ri
 ? Would you like to enable internationalization support? No
 ? Besides JUnit and Jest, which testing frameworks would you like to use? Protractor
 ? Would you like to install other generators from the JHipster Marketplace? No
+
+
+Screenshots
+-----------
+
+![alt text](https://github.com/arunabhdas/prspr-dapp/blob/master/screenshots/screenshot_1.png "Screnshot 1")
