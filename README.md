@@ -6,6 +6,14 @@
 
 ==> ./gradlew
 
+==> yarn start
+
+## Instructions
+
+Add entity 
+
+==> jhipster entity request
+
 ## Deploy
 
 ## Steps
